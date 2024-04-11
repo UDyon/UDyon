@@ -16,7 +16,7 @@
 <h2>🔗Links🔗</h2>
 <p>
 
-  <a href="https://www.instagram.com/dyo._.n/?next=%2F">
+  인스타그램("https://www.instagram.com/dyo._.n/?next=%2F")
   
   
   
