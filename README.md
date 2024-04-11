@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F6CEE3&height=150&section=header" />
+![header](<img src="https://capsule-render.vercel.app/api?type=waving&color=F6CEE3&height=150&section=header" />)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeauto&height=300&section=header&text=welcome&fontSize=90)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 ![UDyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=UDyon&show_icons=true&theme=radical)
 
