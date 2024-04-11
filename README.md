@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeauto&height=300&section=header&text=welcome&fontSize=90)
 
-![UDyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=UDyon1&show_icons=true&theme=radical)
+![UDyon's GitHub stats](https://github-readme-stats.vercel.app/api?username=UDyon&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UDyon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
