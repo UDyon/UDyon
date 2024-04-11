@@ -7,16 +7,18 @@
 
 <h2>✨Introduction✨</h2>
 <p>안녕하세요! 예비 프론트 개발자입니다🥰</p>
+<br>
 
 <h2>📖Career📖</h2>
 <p>영남대학교 컴퓨터공학과 4학년 재학 중🧐</p>
+<br>
 
 <h2>🔗Links🔗</h2>
 <p>
   
-  ![instagram](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsssinstagram.com%2Fko&psig=AOvVaw2p7MqfaJJuapDSQ0hkPHgA&ust=1712926743770000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCGiMKbuoUDFQAAAAAdAAAAABAE)
+  ![instagram](https://www.instagram.com/dyo._.n/?next=%2F)
   
-<a href="https://www.instagram.com/dyo._.n/?next=%2F">
+<!--a href="https://www.instagram.com/dyo._.n/?next=%2F"-->
   
 </p>
   
