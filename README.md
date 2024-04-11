@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UDyon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=UDyon&theme=rose&border_radius=20&locale=ko&mode=weekly&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=UDyon&theme=rose&border_radius=20&locale=ko&mode=weekly&exclude_days=Sun&card_width=700)](https://git.io/streak-stats)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F6CEE3&height=150&section=footer)
