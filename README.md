@@ -16,7 +16,7 @@
 <h2>🔗Links🔗</h2>
 <p>
 
-  ![instagram](https://sssinstagram.com/images/download-online.png) instagram(https://www.instagram.com/dyo._.n/?next=%2F)
+  ![instagram](https://mblogthumb-phinf.pstatic.net/MjAxNzA0MjdfMTU2/MDAxNDkzMjM2OTk0OTUw.lOULJUkRCPISpdHYKj9QbNdCgYc5TxGSsk-dejUfw3Ig.QCq0hdPnO_C0UOEWRqgrjLGZ0zzJ-T76ykE_0SdOq8gg.PNG.fxgame/unnamed-02.png?type=w800) instagram(https://www.instagram.com/dyo._.n/?next=%2F)
   
   
   
