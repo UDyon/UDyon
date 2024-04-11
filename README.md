@@ -5,15 +5,15 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=50&duration=3000&pause=4000&color=F799B0&center=true&random=false&width=570&height=100&lines=Hi+There!+I'm+UDyon+%F0%9F%A4%8D)](https://git.io/typing-svg)
 
 
-##✨Introduction✨
+<h2>✨Introduction✨</h2>
 <p>안녕하세요! 예비 프론트 개발자입니다 🥰</p>
 <br>
 
-##📖Career📖
+<h2>📖Career📖</h2>
 <p>영남대학교 컴퓨터공학과 4학년 재학 중 🧐</p>
 <br>
 
-##🔗Links🔗
+<h2>🔗Links🔗</h2>
 
 <a href="https://www.instagram.com/dyo._.n/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/>
@@ -21,7 +21,7 @@
 <br>
 <br>
 
-##💪Projects💪</h2>
+<h2>💪Projects💪</h2>
 <p>
   👗 MOFY<br>
   ✈️ Travien
