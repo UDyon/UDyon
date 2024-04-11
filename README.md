@@ -6,25 +6,25 @@
 
 
 <h2>✨Introduction✨</h2>
-<p>안녕하세요! 예비 프론트 개발자입니다🥰</p>
+<p>안녕하세요! 예비 프론트 개발자입니다 🥰</p>
 <br>
 
 <h2>📖Career📖</h2>
-<p>영남대학교 컴퓨터공학과 4학년 재학 중🧐</p>
+<p>영남대학교 컴퓨터공학과 4학년 재학 중 🧐</p>
 <br>
 
 <h2>🔗Links🔗</h2>
 
-<span>
-  <a href="https://www.instagram.com/dyo._.n/">
-    <img src="https://img.shields.io/badge/Instagram-hexcode색상?style=plastic&logo=instagram&logoColor=#E4405F"/>
-  </a>
-</span>
-  
-<p>E-Mail : </p>
+<a href="https://www.instagram.com/dyo._.n/“>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/>
+</a>
+<br>
 
-<h2>Projects</h2>
-<p>MOFY, Travien</p>
+<h2>💪Projects💪</h2>
+<p>
+  MOFY 👗
+  Travien ✈️
+</p>
 
 
 
