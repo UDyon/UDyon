@@ -15,15 +15,15 @@
 
 <h2>🔗Links🔗</h2>
 
-<a href="https://www.instagram.com/dyo._.n/“>
+<a href="https://www.instagram.com/dyo._.n/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/>
 </a>
 <br>
 
 <h2>💪Projects💪</h2>
 <p>
-  MOFY 👗 <br>
-  Travien ✈️
+  👗 MOFY<br>
+  ✈️ Travien
 </p>
 
 <br><br>
