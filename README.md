@@ -6,10 +6,6 @@
 
   <br>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=UDyon&theme=rose&border_radius=20&mode=weekly&exclude_days=Sun&card_width=700)](https://git.io/streak-stats)
-
-
-
   <details>
   <summary>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
@@ -38,6 +34,8 @@
 
 
   
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=UDyon&theme=rose&border_radius=20&mode=weekly&exclude_days=Sun&card_width=700)](https://git.io/streak-stats)
 
 </div>
 
