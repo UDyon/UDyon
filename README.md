@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=F799B0&center=true&random=false&width=435&lines=Hi+There!+I'm+UDyon+%F0%9F%92%95)](https://git.io/typing-svg)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F6CEE3&height=150&section=header)
 
