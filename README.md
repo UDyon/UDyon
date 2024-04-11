@@ -17,7 +17,7 @@
 
 <span>
   <a href="https://www.instagram.com/dyo._.n/">
-    <img src="https://mblogthumb-phinf.pstatic.net/MjAxNzA0MjdfMTU2/MDAxNDkzMjM2OTk0OTUw.lOULJUkRCPISpdHYKj9QbNdCgYc5TxGSsk-dejUfw3Ig.QCq0hdPnO_C0UOEWRqgrjLGZ0zzJ-T76ykE_0SdOq8gg.PNG.fxgame/unnamed-02.png?type=w800"/>
+    <img src="https://img.shields.io/badge/Instagram-hexcode색상?style=plastic&logo=instagram&logoColor=#E4405F"/>
   </a>
 </span>
   
