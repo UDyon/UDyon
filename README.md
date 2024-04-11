@@ -1,4 +1,6 @@
 <div align=center>
+
+  <br>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=50&duration=3000&pause=4000&color=F799B0&center=true&random=false&width=570&height=100&lines=Hi+There!+I'm+UDyon+%F0%9F%A4%8D)](https://git.io/typing-svg)
 
@@ -6,9 +8,9 @@
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=UDyon&theme=rose&border_radius=20&mode=weekly&exclude_days=Sun&card_width=700)](https://git.io/streak-stats)
 
-</div>
 
-<details>
+
+  <details>
   <summary>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
   </summary>
@@ -33,6 +35,12 @@
   ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 </details>
+
+
+  
+
+</div>
+
 
 
 
