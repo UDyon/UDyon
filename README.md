@@ -9,20 +9,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UDyon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Introduction
-안녕하세요.
-SW프로세스를 좋아합니다
+[![GitHub Streak](https://streak-stats.demolab.com?user=UDyon&theme=rose&border_radius=20&locale=ko&mode=weekly&exclude_days=Sun)](https://git.io/streak-stats)
 
-## Career
-영남대학교 컴퓨터공학과 학생
 
-## Links
-E-mail - darkroom01@icloud.com
-
-## Projects
-MOFY, Travien
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F6CEE3&height=150&section=footer" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=F6CEE3&height=150&section=footer)
 
 <!--
 **UDyon/UDyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
