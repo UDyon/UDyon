@@ -15,8 +15,10 @@
 
 <h2>🔗Links🔗</h2>
 <p>
+
+  <a href="https://www.instagram.com/dyo._.n/?next=%2F">
   
-  ![instagram](https://www.instagram.com/dyo._.n/?next=%2F)
+  
   
 <!--a href="https://www.instagram.com/dyo._.n/?next=%2F"-->
   
