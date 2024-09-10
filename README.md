@@ -62,6 +62,56 @@
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=UDyon&theme=rose&border_radius=20&mode=weekly&exclude_days=Sun&card_width=700)](https://git.io/streak-stats)
 
+
+
+
+
+
+
+  ## 🌟 Skills
+
+### Flutter
+- Flutter를 사용하여 크로스플랫폼 애플리케이션 프로토타입을 개발해 본 경험이 있습니다.
+- Provider를 통해 상태 관리를 한 경험이 있습니다.
+- 재학생들을 대상으로 Flutter 애플리케이션 개발 교육을 진행한 경험이 있습니다.
+
+### HTML, CSS, JavaScript
+- HTML, CSS, JavaScript를 사용하여 웹 프론트엔드 개발을 진행한 경험이 있습니다.
+- 학과 동아리 회원을 대상으로 HTML, CSS, JavaScript 교육을 진행한 경험이 있습니다.
+- 개발 문서를 읽고 원하는 기능을 구현할 수 있습니다.
+
+### ReactJS
+- React Framework를 사용하여 웹 프론트엔드 개발을 진행한 경험이 있습니다.
+- 다양한 라이브러리를 사용하여 적절한 기능을 구현하고 애니메이션을 적용할 수 있습니다.
+
+### Python
+- Python으로 기본적인 알고리즘 문제를 해결할 수 있습니다.
+- 신입생을 대상으로 Python 문법 교육을 진행한 경험이 있습니다.
+
+### Git
+- Git을 활용한 소스코드 버전 관리 및 협업 경험이 있습니다.
+- Github를 사용하여 프로젝트 문서 관리 경험이 있습니다.
+
+---
+
+## 📝 Personal & Team Projects
+
+| 프로젝트 이름 | 설명 | 태그 |
+| ------------- | ---- | ---- |
+| **Soa Tattoo - landing page** | 타투 관련 웹사이트 | 팀프로젝트 |
+| **Colorehu - 색의 색맹 보호 웹 (미완)** | 색맹 보호 관련 웹사이트 | 팀프로젝트 |
+
+---
+
+## 🏅 Activities
+
+| 활동 이름 | 설명 | Type |
+| --------- | ---- | ---- |
+| **SSOS 멘토링 활동** | 멘토링 프로젝트 | 동아리 |
+| **WEB+AI 실무 프로젝트** | 실무 관련 외부 교육 | 외부 교육 |
+
+
+
 </div>
 
 
