@@ -6,9 +6,10 @@
 
 
 <h2>✨Introduction✨</h2>
-<p>안녕하세요! 예비 프론트 개발자입니다 🥰</p>
+<p>안녕하세요! 예비 프론트엔드 개발자입니다 🥰</p>
 <br>
 
+<!--
 <h2>📖Career📖</h2>
 <p>영남대학교 컴퓨터공학과 4학년 재학 중 🧐</p>
 <br>
@@ -18,13 +19,15 @@
 <a href="https://www.instagram.com/dyo._.n/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hongssup"/>
 </a>
+-->
 <br>
 <br>
 
 <h2>💪Projects💪</h2>
 <p>
   👗 MOFY<br>
-  ✈️ Travien
+  ✈️ Travien<br>
+  ✒️ Penfolio
 </p>
 
 <br><br>
@@ -33,7 +36,7 @@
 
   <details>
   <summary>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 가진 기술은 ... 
   </summary>
   <br>
   
@@ -42,32 +45,35 @@
   ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
   ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-  ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+  ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </details>
 
 <details>
   <summary>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Fire.png" alt="Fire" width="2%" /> 내가 배우고 싶은 ... 
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Fire.png" alt="Fire" width="2%" /> 내가 지금 배우고 있는 ... 
     </summary>
   <br>
   
   ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </details>
 
-  
+  <!--
   <br>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=UDyon&theme=rose&border_radius=20&mode=weekly&exclude_days=Sun&card_width=700)](https://git.io/streak-stats)
 
+-->
 
 
 
 
-
-
+<!--
   ## 🌟 Skills
 
 ### Flutter
@@ -114,7 +120,7 @@
 
 </div>
 
-
+-->
 
 
 <!--
